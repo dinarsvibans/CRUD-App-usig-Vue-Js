@@ -24,13 +24,13 @@ Make sure you have Node.js and npm installed on your machine.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-project.git
+    git clone https://github.com/your-username/your-project.git](https://github.com/dinarsvibans/CRUD-App-usig-Vue-Js.git
     ```
 
 2. Change into the project directory:
 
     ```bash
-    cd your-project
+    cd CRUD-App-usig-Vue-Js
     ```
 
 3. Install dependencies:
