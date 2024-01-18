@@ -1,0 +1,7 @@
+@import './base.css';
+@import 'bootstrap';
+
+body{
+background-color: rgb(75, 33, 33);
+margin-top: 100px;
+}
