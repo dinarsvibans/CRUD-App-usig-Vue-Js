@@ -1,12 +1,16 @@
-# Your Project Name
+# CRUD-App-usig-Vue-Js
 
 ## Introduction
 
-Briefly describe your project and its purpose.
+WorkTime Tracker is a web application designed to streamline workforce management by providing a user-friendly interface to add new workers, track their work time, and allow administrators to modify worker information as needed.
 
-## Getting Started
+### Key Features
 
-Follow these steps to set up and run the project locally on your machine.
+- **Add New Workers:** Easily add new workers to the system by providing essential details such as name, contact information, and job role.
+
+- **Track Work Time:** Efficiently monitor and record the work hours of each worker. The application provides a clear overview of daily, weekly, and monthly work hours for better workforce management.
+
+- **Modify Worker Information:** Administrators have the flexibility to update worker information at any time. Whether it's a change in contact details or a job role adjustment, the system ensures that the workforce information remains accurate and up-to-date.
 
 ### Prerequisites
 
